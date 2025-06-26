@@ -8,8 +8,6 @@ This repository features two classic game modes:
 
 This project is great for Python beginners and showcases terminal-based interaction, input validation, and basic game logic.
 
----
-
 ## 🕹️ Game Modes
 
 ### 🎲 Human vs Computer
@@ -41,8 +39,6 @@ Use this layout to choose your move:
 
 Each number corresponds to a position on the board.
 
----
-
 ## 💡 Features
 - Terminal-based board display
 - Input validation and error handling
@@ -50,7 +46,6 @@ Each number corresponds to a position on the board.
 - Simple AI opponent for single player
 - Beginner-friendly Python code
 
----
 ## 🚀 Getting Started
 
 - Clone or download the repository.
