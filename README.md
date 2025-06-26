@@ -56,6 +56,6 @@ Each number corresponds to a position on the board.
   python "Tic-Tac-Toe (Player_1 - Player_2).py"
 
 ## 📄 License
-This project is licensed under the GPI 3.0 License. See `LICENSE` for more details.
+This project is licensed under the GPL-3.0 License. See `LICENSE` for more details.
 
 
