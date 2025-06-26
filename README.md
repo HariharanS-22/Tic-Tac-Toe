@@ -29,22 +29,20 @@ This project is great for Python beginners and showcases terminal-based interact
 - Player 2 uses 'O'
 - Take turns by entering a number from 1 to 9.
 
----
 
 ## 🔢 Board Reference
 Use this layout to choose your move:
-<p align="center"> 
-  <img src="https://drive.google.com/file/d/1w2vEj0uotXgK7OVpjQ6Rw1tknIEPT5fF/view?usp=drive_link" width=600>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1w2vEj0uotXgK7OVpjQ6Rw1tknIEPT5fF" alt="Circuits" width="200"/>
 </p>
-
 Each number corresponds to a position on the board.
 
 ## 💡 Features
-- Terminal-based board display
-- Input validation and error handling
-- Win and draw detection
-- Simple AI opponent for single player
-- Beginner-friendly Python code
+- ✅ Terminal-based board display
+- ✅ Input validation and error handling
+- ✅ Win and draw detection
+- ✅ Simple AI opponent for single player
+- ✅ Beginner-friendly Python code
 
 ## 🚀 Getting Started
 
@@ -58,6 +56,6 @@ Each number corresponds to a position on the board.
   python "Tic-Tac-Toe (Player_1 - Player_2).py"
 
 ## 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the GPI 3.0 License. See `LICENSE` for more details.
 
 
